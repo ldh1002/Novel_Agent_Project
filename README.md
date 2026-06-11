@@ -30,9 +30,12 @@ pip install langchain langchain-chroma langchain-huggingface langchain-openai ne
 Bash
 python build_db.py
 ```
-최초 실행시 생성되는 raw_books폴더에 가지고 있는 도서 txt 파일을 생성된 저장 
+최초 실행시, 생성된 raw_books폴더에 가지고 있는 도서 txt 파일을 생성된 저장 
+
 3. 에이전트 실행 및 대화 시작
 ```   
 Bash
 python ask_agent.py
 ```
+---
+[프로젝트 발표 자료 보기 (PDF)](장편소설 독서용 지능형 AI 에이전트 최종발표.pdf)
