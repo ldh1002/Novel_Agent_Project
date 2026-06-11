@@ -39,3 +39,4 @@ python ask_agent.py
 ```
 ---
 
+[장편소설 독서용 지능형 AI 에이전트 최종발표.pdf](https://github.com/user-attachments/files/28818182/AI.pdf)
