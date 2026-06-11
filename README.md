@@ -38,4 +38,4 @@ Bash
 python ask_agent.py
 ```
 ---
-[프로젝트 발표 자료 보기 (PDF)](장편소설 독서용 지능형 AI 에이전트 최종발표.pdf)
+
